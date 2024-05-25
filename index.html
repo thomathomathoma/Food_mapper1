@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Food Mapper 1</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="google-map"></div>
+    <div id="popup-window" class="popup-window" style="display: none;">
+        <!-- Content will be injected dynamically -->
+    </div>
+    
+    <div id="info-sidebar" class="info-sidebar" style="display: none;">
+        <!-- Content will be dynamically injected here -->
+        <!-- Video gallery and additional content will be dynamically injected here -->
+        <div id="video-gallery" class="video-gallery"></div>
+        <div id="info-content" class="info-content"></div>
+        <div id="comment-section" class="comment-section">
+            <h4>Comments</h4>
+            <div id="comments"></div>
+            <textarea id="new-comment" placeholder="Add a comment..."></textarea>
+            <button onclick="addComment()">Post Comment</button>
+        </div>
+    </div>    
+
+    <div id="directions-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <span class="close" onclick="closeDirectionsModal()">&times;</span>
+            <h2>Select Navigation App</h2>
+            <button onclick="openGoogleMaps()">Google Maps</button>
+            <button onclick="openAppleMaps()">Apple Maps</button>
+            <button onclick="openWaze()">Waze</button>
+        </div>
+    </div>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZtwwKjd5yHCrB2mIM5-B65D_ZEyyID8o&libraries=places&callback=initMap" async defer></script>
+    <script src="script.js"></script>
+</body>
+</html>
+

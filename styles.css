@@ -1,0 +1,122 @@
+body {
+    display: flex;
+    height: 100vh;
+    overflow: hidden; /* Prevent scrolling */
+}
+
+#google-map {
+    border: 1px solid #ccc;
+    width: 100%; /* Full width by default */
+    height: 100%;
+    transition: width 0.3s; /* Smooth transition for resizing */
+}
+
+
+.info-sidebar {
+    position: absolute; /* Positioning over the map */
+    top: 0;
+    right: 0;
+    width: 33%; /* Width of the sidebar */
+    height: 100%;
+    background-color: #fff;
+    overflow-y: auto;
+    padding: 20px;
+    box-sizing: border-box;
+    transition: all 0.3s; /* Smooth transition for sliding in */
+}
+
+
+.popup-window {
+    position: absolute;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    z-index: 1000;
+    display: none;
+    width: 250px; /* Adjust as needed */
+    transform: translate(220%, 50%); /* Adjust for better positioning */
+}
+
+.video-gallery {
+    width: 100%; /* Full width of the sidebar */
+    height: auto; /* Adjust based on content */
+    overflow-y: auto; /* Enable scrolling if many videos */
+    padding: 10px 0; /* Spacing around the gallery */
+}
+
+.info-content {
+    padding-top: 20px; /* Added padding to create a visual separation from the video gallery above.
+    */
+}
+
+#comments {
+    margin-bottom: 20px;
+}
+
+.comment {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+.comment-reply {
+    margin-left: 20px;
+}
+
+#new-comment {
+    width: 100%;
+    height: 60px;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* Ensure iframes are styled to fit well within the video-gallery container, 
+including adjustments to width, height, and margins. */
+iframe {
+    width: 100%; /* Ensure iframes take full width of the container */
+    height: 240px; /* Fixed height for video frames */
+    border: none; /* Remove any default border */
+    margin-bottom: 10px; /* Space between videos */
+}
+
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1000; 
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%; 
+    overflow: auto;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.4); 
+}
+
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; 
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; 
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#phone-number, #menu {
+    margin-top: 15px;
+    font-size: 16px;
+}

@@ -1,0 +1,94 @@
+[
+    {
+        "LocationName": "Gastrobar Elvy",
+        "Color": "Bruin",
+        "Type": "Maan",
+        "lat": 51.906924932104275,
+        "lng": 4.488694377460259,
+        "address": "Wilhelminakade 137,<br> 3072 AP,<br> Rotterdam",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/25/25613.png",
+        "placeId": "ChIJbQdKm6szxEcRs2TpeIap1j0", 
+        "phoneNumber": "",
+        "menu": "",
+        "images": [
+            "https://www.drifted.com/wp-content/uploads/2018/08/jdm-car-1000x664.jpg",
+            "https://www.ronbrooks.co.uk/wp-content/uploads/2023/06/toyota-supra-mk4-1024x576.png",
+            "https://www.jdmauctionwatch.com/wp-content/uploads/2016/06/ae86.jpg",
+            "https://f1rst-motors.s3.me-central-1.amazonaws.com/cars/1714769898437-5_7329b7847e.jpg"
+        ],
+        "videoEmbed": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@kirsten_dk/video/7261521724116602139' data-video-id='7261521724116602139' style='max-width: 605px;min-width: 325px;' > <section> </section> </blockquote> <script async src='https://www.tiktok.com/embed.js'></script>"
+        
+    },
+    {
+        "LocationName": "The Wings Paradise Rotterdam",
+        "Color": "Geel",
+        "Type": "Bestek",
+        "lat": 51.91604222665996,
+        "lng": 4.466111069666063,
+        "address": "Nieuwe Binnenweg 135d,<br> 3014 GJ,<br> Rotterdam",
+        "iconUrl": "https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-Free-Download-PNG.png",
+        "placeId": "ChIJDW7bhRI1xEcR8iwoWDzVxrA", 
+        "images": [
+            "https://www.drifted.com/wp-content/uploads/2018/08/jdm-car-1000x664.jpg",
+            "https://www.ronbrooks.co.uk/wp-content/uploads/2023/06/toyota-supra-mk4-1024x576.png",
+            "https://www.jdmauctionwatch.com/wp-content/uploads/2016/06/ae86.jpg",
+            "https://f1rst-motors.s3.me-central-1.amazonaws.com/cars/1714769898437-5_7329b7847e.jpg"
+        ],
+        "videoEmbed": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@amsterdamsdiary/video/7305839115436674337' data-video-id='7305839115436674337' style='max-width: 605px;min-width: 325px;' > <section> </section> </blockquote> <script async src='https://www.tiktok.com/embed.js'></script>"
+
+    },
+    {
+        "LocationName": "Finca",
+        "Color": "Bruin",
+        "Type": "Bestek",
+        "lat": 51.928961189760024,
+        "lng": 4.505634984585424,
+        "address": "Oudedijk 222B,<br> 3061 AT,<br> Rotterdam",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/25/25613.png",
+        "placeId": "ChIJe3MuyZEzxEcRvuN1I-oFDTo", 
+        "images": [
+            "https://www.drifted.com/wp-content/uploads/2018/08/jdm-car-1000x664.jpg",
+            "https://www.ronbrooks.co.uk/wp-content/uploads/2023/06/toyota-supra-mk4-1024x576.png",
+            "https://www.jdmauctionwatch.com/wp-content/uploads/2016/06/ae86.jpg",
+            "https://f1rst-motors.s3.me-central-1.amazonaws.com/cars/1714769898437-5_7329b7847e.jpg"
+        ],
+        "videoEmbed": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@gmndss/video/7095032412752579845' data-video-id='7095032412752579845' style='max-width: 605px;min-width: 325px;' > <section> </section> </blockquote> <script async src='https://www.tiktok.com/embed.js'></script>"
+
+    },
+    {
+        "LocationName": "Pesca Rotterdam",
+        "Color": "Rood",
+        "Type": "Bestek",
+        "lat": 51.922801916709886,
+        "lng": 4.486891096189317,
+        "address": "Botersloot 125,<br> 3011 HE,<br> Rotterdam",
+        "iconUrl": "https://www.pngall.com/wp-content/uploads/2017/05/Map-Marker-PNG-Picture.png",
+        "placeId": "ChIJbVBRIjEzxEcRPQytRaOBi3Q", 
+        "images": [
+            "https://www.drifted.com/wp-content/uploads/2018/08/jdm-car-1000x664.jpg",
+            "https://www.ronbrooks.co.uk/wp-content/uploads/2023/06/toyota-supra-mk4-1024x576.png",
+            "https://www.jdmauctionwatch.com/wp-content/uploads/2016/06/ae86.jpg",
+            "https://f1rst-motors.s3.me-central-1.amazonaws.com/cars/1714769898437-5_7329b7847e.jpg"
+        ],
+        "videoEmbed": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@pesca.restaurant/video/7314611143874563360' data-video-id='7314611143874563360' style='max-width: 605px;min-width: 325px;' > <section> </section> </blockquote> <script async src='https://www.tiktok.com/embed.js'></script>"
+
+    },
+    {
+        "LocationName": "By Mi & Es",
+        "Color": "Bruin",
+        "Type": "Cake",
+        "lat": 51.918812938453556,
+        "lng": 4.476175805956501,
+        "address": "Karel Doormanstraat 368-370,<br> 3012 GR,<br> Rotterdam",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/25/25613.png",
+        "placeId": "ChIJp0dNeks1xEcRPwbZDvfFymQ", 
+        "images": [
+            "https://www.drifted.com/wp-content/uploads/2018/08/jdm-car-1000x664.jpg",
+            "https://www.ronbrooks.co.uk/wp-content/uploads/2023/06/toyota-supra-mk4-1024x576.png",
+            "https://www.jdmauctionwatch.com/wp-content/uploads/2016/06/ae86.jpg",
+            "https://f1rst-motors.s3.me-central-1.amazonaws.com/cars/1714769898437-5_7329b7847e.jpg"
+        ],
+        "videoEmbed": "<blockquote class='tiktok-embed' cite='https://www.tiktok.com/@h.vsnv/video/7264205132886297889' data-video-id='7264205132886297889' style='max-width: 605px;min-width: 325px;' > <section> <!-- additional content here --> </section> </blockquote> <script async src='https://www.tiktok.com/embed.js'></script>"
+
+    }
+]
